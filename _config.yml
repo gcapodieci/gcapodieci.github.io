@@ -21,12 +21,12 @@ skills:
  - Groovy
  - Spring MVC
  - Spring Boot
- - Gradle
+ - Maven
  - Java
  - JPA
  - SQL
  - REST
- - Tech Architecture
+ - PHP
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://losviluppatore.it/feed/
