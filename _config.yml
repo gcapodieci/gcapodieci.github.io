@@ -4,7 +4,7 @@ twitter_username: gcapodieci
 name: Giuseppe Capodieci
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
@@ -67,14 +67,14 @@ coursera:
     
 
 #List of interesting Github repo/projects to include - optional
-github:
+# github:
  
 
 #Stackoverflow flair is optional
 
 
 #Mobile apps section is optional
-apps:
+# apps:
  
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
