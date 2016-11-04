@@ -62,7 +62,7 @@ coursera:
    courses:
     - title: Web Application Architectures
       link: https://www.coursera.org/account/accomplishments/certificate/KPEW8W495S
-      optionalimage:https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/62/7a5500c44511e5bb6eefae6b5d56ba/mooc_logo.png?auto=format&dpr=1&w=100&h=100&fit=fill&bg=FFF
+      optionalimage:https://coursera-course-photos.s3.amazonaws.com/62/7a5500c44511e5bb6eefae6b5d56ba/mooc_logo.png
       date: May 28, 2015
     
 
